@@ -1,0 +1,7 @@
+# Jekyll files
+.jekyll-cache/
+.jekyll-metadata
+_site/
+
+# Visual Studio Code
+.vscode/

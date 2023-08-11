@@ -1,0 +1,12 @@
+title: ITBA - Full stack development
+author: Benjamín Iriarte Crom
+email: biriarte@itba.edu.ar
+
+description: >
+  Contenido de la clase de herramientas para el desarrollo de aplicaciones web del ITBA.
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
