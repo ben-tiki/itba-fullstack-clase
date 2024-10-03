@@ -20,13 +20,13 @@ Visual Studio Code (VSCode) es un editor de código gratuito y open source desar
 Para instalar VSCode, ingresá a la [página oficial](https://code.visualstudio.com/) y descarga el instalador para tu sistema operativo. Una vez que se complete la descarga, ejecuta el instalador y segui las instrucciones.
 
 ## Temas
-VSCode viene con varios temas incorporados que podes cambiar según tus preferencias. Para cambiar el tema, podes seguir estos pasos:
+VSCode viene con varios temas incorporados que podés cambiar según tus preferencias. Para cambiar el tema, podés seguir estos pasos:
 
 1. Hace clic en el icono de engranaje en la esquina inferior izquierda.
 2. Selecciona "Color Theme".
 3. Elegí el tema que más te guste de la lista.
 
-Además, podes buscar más temas en el Marketplace de VSCode. Acá dejo un artículo con [algunos de los mejores temas de VSCode](https://www.linkedin.com/pulse/10-best-vscode-themes-2023-zamir-khotov/). Yo personlamente uso [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) 😊.
+Además, podés buscar más temas en el Marketplace de VSCode. Acá dejo un artículo con [algunos de los mejores temas de VSCode](https://www.linkedin.com/pulse/10-best-vscode-themes-2023-zamir-khotov/). Yo personlamente uso [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) 😊.
 
 ## Extensiones
 
@@ -82,7 +82,7 @@ Dejo acá un cheatsheet con los atajos de teclado más comunes, para [Windows](h
 
 ## Snippets
 
-Los [snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) son templates de código que puedes reutilizar. VSCode viene con snippets incorporados para muchos lenguajes, pero también podes crear los propios. (cuando veas que estás escribiendo muchas veces el mismo código repetitivo, puede ser una buena oportunidad para crear un snippet).
+Los [snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) son templates de código que podés reutilizar. VSCode viene con snippets incorporados para muchos lenguajes, pero también podés crear los propios. (cuando veas que estás escribiendo muchas veces el mismo código repetitivo, puede ser una buena oportunidad para crear un snippet).
 
 Por ejemplo, si escribis `for` y apretas `Tab`, VSCode va a generar:
 
@@ -93,11 +93,11 @@ for (let index = 0; index < array.length; index++) {
 }
 ```
 
-Podes navegar entre los campos del snippet con `Tab` y `Shift + Tab`. Así vas completando los valores de cada campo con tus propios valores.
+Podés navegar entre los campos del snippet con `Tab` y `Shift + Tab`. Así vas completando los valores de cada campo con tus propios valores.
 
 ## Terminal integrada
 
-VSCode tiene una [terminal integrada](https://code.visualstudio.com/docs/terminal/basics) que podes abrir seleccionando `View > Terminal` en el menú superior. La terminal se abre en la parte inferior de la pantalla.  Puedes ejecutar comandos de terminal directamente desde VSCode, lo que facilita la ejecución de scripts, la instalación de paquetes, el control de versiones, etc. 
+VSCode tiene una [terminal integrada](https://code.visualstudio.com/docs/terminal/basics) que podés abrir seleccionando `View > Terminal` en el menú superior. La terminal se abre en la parte inferior de la pantalla. Podés ejecutar comandos de terminal directamente desde VSCode, lo que facilita la ejecución de scripts, la instalación de paquetes, el control de versiones, etc. 
 
 ## Integración de control de versiones
 
